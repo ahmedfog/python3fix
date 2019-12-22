@@ -1,4 +1,5 @@
 #!/bin/bash
+echo Python3 FIX By MR ELKHATEB | lolcat&& figlet ABOMAGDY
 apt-get update -y
 apt-get install cowsay -y
 apt-get install ruby -y
